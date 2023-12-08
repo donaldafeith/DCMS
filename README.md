@@ -1,7 +1,9 @@
 # Dynamic Content Management System (DCMS)
 
 DCMS is a lightweight content management system for managing web pages dynamically. It provides a simple way to create, edit, and display web pages with dynamic content.
-Please note this isn't WordPress or even close. It is a very barebones CMS that allows you to make pages and display them. Nothing really fancy. I may update this with new ideas or new code, but for now it is just a page editor that was a 4 hour project for me to have fun creating. (I hope you like it.)
+
+
+###### Please note this isn't WordPress or even close. It is a very barebones CMS that allows you to make pages and display them. Nothing really fancy. I may update this with new ideas or new code, but for now it is just a page editor that was a fun small personal project for me to play around and create something.
 
 ## Features
 
